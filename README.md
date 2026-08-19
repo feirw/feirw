@@ -21,7 +21,7 @@ founder @ <a href="https://technotes.gr">Technotesgr</a>
 | OpenAI Community Hackathon | 🥇 1st | Reelio — AI video editor |
 | OpenHackathon (Open Conf) | 🥇 1st | Epirus Shield — real-time scam call detector |
 | Blue & Circular Economy Hackathon | 🥇 1st | Hook & Grab — second-hand fishing gear marketplace |
-| Crazy Business Ideas Hackathon | 🥉 3rd | Luggease - |
+| Crazy Business Ideas Hackathon | 🥉 3rd | Luggease - Smart lockers for tourists' luggage app |
 
 
 ---
