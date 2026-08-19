@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">hii i'm eleni 👋</h1>
 
-<!--
-**feirw/feirw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+founder @ <a href="https://technotes.gr">Technotesgr</a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏆 3x hackathon winner 
+- 🎓 studying Computer Science @ [UOA](https://di.uoa.gr/)
+- 💼 building [TechnotesGR](https://technotesgr.com) — a Greek learning platform for informatics(Panhellenic Exams)
+- 🌍 helping young people keep up with technology
+- 🔗 portfolio with all my social links → [Website](https://elenizafeiri.com/)
+
+
+---
+
+### recent wins
+
+| Hackathon | Result | Project |
+|---|---|---|
+| OpenAI Community Hackathon | 🥇 1st | Reelio — AI video editor |
+| OpenHackathon (Open Conf) | 🥇 1st | Epirus Shield — real-time scam call detector |
+| Blue & Circular Economy Hackathon | 🥇 1st | Hook & Grab — second-hand fishing gear marketplace |
+| Crazy Business Ideas Hackathon | 🥉 3rd | Luggease - |
+
+
+---
+
+
