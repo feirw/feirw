@@ -7,7 +7,7 @@ founder @ <a href="https://technotes.gr">Technotesgr</a>
 
 - 🏆 3x hackathon winner 
 - 🎓 studying Computer Science @ [UOA](https://di.uoa.gr/)
-- 💼 building [TechnotesGR](https://technotesgr.com) , a Greek learning platform for informatics(Panhellenic Exams)
+- 💼 building [TechnotesGR](https://technotes.gr) , a Greek learning platform for informatics(Panhellenic Exams)
 - 🌍 helping young people keep up with technology
 - 🔗 portfolio with all my social links → [Website](https://elenizafeiri.com/)
 
